@@ -32,5 +32,6 @@ public class NameModel extends DefaultTableModel {
 
 	public static final Object[] secondWizardName = { "es", "as", "ald", "and", "alf", "am", "an" };
 	
-
+	public static final Object[] ninjaName = { "ji", "ken", "ro", "katsu", "kaori", "shi", "ki", "aya" };
+	
 }
