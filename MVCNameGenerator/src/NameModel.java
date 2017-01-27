@@ -2,10 +2,6 @@
 
 import javax.swing.table.DefaultTableModel;
 
-/**
- * @author ashraf
- *
- */
 @SuppressWarnings("serial")
 public class NameModel extends DefaultTableModel {
 
